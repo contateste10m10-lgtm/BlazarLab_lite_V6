@@ -1,0 +1,3 @@
+BlazarLab Lite V6
+Version: 1.3.44
+Purpose: refined “Uma fonte, uma banda, três lentes” explanatory note typography and responsive layout.
