@@ -1,0 +1,4 @@
+BlazarLab Lite V6
+Version: 1.3.45
+Purpose: improved visual-selector overlay/backdrop and custom SVG illustration for the “Uma fonte, uma banda, três lentes” multiband note.
+Package: Lite only; no audit, changelog, evidence, or test-report files.
